@@ -152,7 +152,7 @@ REACT_APP_FIREBASE_APP_ID=your_app_id
 npm run dev
 ```
 
-访问 [http://localhost:3000](http://localhost:3000)
+访问
 
 ## 📚 使用指南
 
